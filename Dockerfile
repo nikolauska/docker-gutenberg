@@ -1,4 +1,4 @@
-FROM node:8.8-slim
+FROM node:8-slim
 
 MAINTAINER Nikolauska <nikolauska1@gmail.com>
 
